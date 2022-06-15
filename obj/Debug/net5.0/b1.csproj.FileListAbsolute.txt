@@ -89,3 +89,4 @@ I:\My Drive\nash\asp.net core MVC\b2\MVCAssignmentDay2\obj\Debug\net5.0\ref\b1.d
 I:\My Drive\nash\asp.net core MVC\b2\MVCAssignmentDay2\obj\Debug\net5.0\Razor\Views\Rookie\Index.cshtml.g.cs
 I:\My Drive\nash\asp.net core MVC\b2\MVCAssignmentDay2\obj\Debug\net5.0\Razor\Views\Rookie\Create.cshtml.g.cs
 I:\My Drive\nash\asp.net core MVC\b2\MVCAssignmentDay2\obj\Debug\net5.0\Razor\Views\Rookie\Edit.cshtml.g.cs
+I:\My Drive\nash\asp.net core MVC\b2\MVCAssignmentDay2\obj\Debug\net5.0\Razor\Views\Rookie\AllMember.cshtml.g.cs

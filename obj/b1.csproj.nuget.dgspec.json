@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "i:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj": {}
+    "I:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj": {}
   },
   "projects": {
-    "i:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj": {
+    "I:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "i:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj",
+        "projectUniqueName": "I:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj",
         "projectName": "b1",
-        "projectPath": "i:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj",
+        "projectPath": "I:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\b1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "i:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\obj\\",
+        "outputPath": "I:\\My Drive\\nash\\asp.net core MVC\\b2\\MVCAssignmentDay2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

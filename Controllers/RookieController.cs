@@ -57,10 +57,9 @@ namespace b1.Controllers
         }
 
         [HttpPost]
-        public IActionResult Delete(int editindex)
+        public IActionResult Delete(int index)
         {
-            ViewData["EditIndex"] = editindex;
-            _personService.Delete(editindex);
+            _personService.Delete(index);
             return RedirectToAction("Index");
         }
     }
